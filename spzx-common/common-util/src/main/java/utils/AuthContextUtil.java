@@ -1,7 +1,8 @@
 package utils;
 
-import com.atguigu.spzx.model.entity.system.SysUser;
-import com.atguigu.spzx.model.entity.user.UserInfo;
+
+import model.entity.system.SysUser;
+import model.entity.user.UserInfo;
 
 public class AuthContextUtil {
 
