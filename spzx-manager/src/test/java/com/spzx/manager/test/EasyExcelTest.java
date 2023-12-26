@@ -1,4 +1,4 @@
-package com.atguigu.spzx.manager.test;
+package com.spzx.manager.test;
 
 import com.alibaba.excel.EasyExcel;
 import com.atguigu.spzx.model.vo.product.CategoryExcelVo;
