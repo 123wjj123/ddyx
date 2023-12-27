@@ -14,4 +14,6 @@ public interface SysRoleMapper {
     void update(SysRole sysRole);
     //角色删除方法
     void delete(Long roleId);
+    //查询所有角色
+    List<SysRole> findAll();
 }
