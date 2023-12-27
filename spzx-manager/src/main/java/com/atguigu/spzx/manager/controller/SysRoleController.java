@@ -17,10 +17,10 @@ public class SysRoleController {
 
     @Autowired
     private SysRoleService sysRoleService;
-    @GetMapping("/findAllRoles")
-    public Result findAllRoles(){
-        Map<String,Object> map=sysRoleService.findAll();
-        return Result.build(null,ResultCodeEnum.SUCCESS);
+    @GetMapping("/findAllRoles/{userId}")
+    public Result findAllRoles(@PathVariable("userId")Long userId){
+        Map<String,Object> map=sysRoleService.findAll(userId);
+        return Result.build(map,ResultCodeEnum.SUCCESS);
     }
     //角色删除方法
     @DeleteMapping("/deleteById/{roleId}")

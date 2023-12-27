@@ -5,12 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="323bae5a-57c4-4604-a450-0eb5e6414bd5" name="Changes" comment="权限管理角色管理">
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/controller/SysMenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/controller/SysRoleMenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/SysMenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/SysRoleMenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/SysMenuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/SysRoleMenuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/utils/MenuHelpeer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_12_26_16_48__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_12_26_16_48__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/controller/SysRoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/controller/SysRoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/controller/SysUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/controller/SysUserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/mapper/SysMenuMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/mapper/SysMenuMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/SysRoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/SysRoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/SysUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/SysUserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/SysRoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/SysRoleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/SysUserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/SysUserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/resources/mapper/user/SysRoleUserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/resources/mapper/user/SysRoleUserMapper.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +86,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "configurable.group.language",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "spring.configuration.checksum": "b66ce9d7d8921d5e4ec74c9d2003eccc",
     "vue.rearranger.settings.migration": "true"
   }
@@ -147,9 +165,9 @@
       <list>
         <item itemvalue="Spring Boot.ManagerApplication (1)" />
         <item itemvalue="Spring Boot.ManagerApplication" />
+        <item itemvalue="Spring Boot.ManagerApplication (1)" />
         <item itemvalue="Spring Boot.ManagerApplication" />
-        <item itemvalue="Spring Boot.ManagerApplication (1)" />
-        <item itemvalue="Spring Boot.ManagerApplication (1)" />
+        <item itemvalue="Spring Boot.ManagerApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +199,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="权限管理角色管理" />
-    <option name="LAST_COMMIT_MESSAGE" value="权限管理角色管理" />
+    <MESSAGE value="权限管理2" />
+    <option name="LAST_COMMIT_MESSAGE" value="权限管理2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
