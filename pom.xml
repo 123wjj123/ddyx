@@ -12,9 +12,7 @@
         <module>spzx-common</module>
         <module>spzx-model</module>
         <module>spzx-manager</module>
-        <module>spzx-server-gateway</module>
-        <module>spzx-service</module>
-        <module>spzx-service-client</module>
+
     </modules>
 
     <!-- 指定父工程 -->
@@ -22,6 +20,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.0.5</version>
+        <relativePath/>
     </parent>
 
     <properties>
@@ -89,6 +88,7 @@
                 <artifactId>lombok</artifactId>
                 <version>${lombok.version}</version>
             </dependency>
+
         </dependencies>
     </dependencyManagement>
 
