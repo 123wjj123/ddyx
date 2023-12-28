@@ -18,4 +18,5 @@ public interface CategoryBrandMapper {
 
     //根据分类id查询对应品牌数据
     List<Brand> findBrandByCategoryId(Long categoryId);
+
 }

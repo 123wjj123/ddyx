@@ -44,4 +44,5 @@ public class CategoryController {
         List<Category> list = categoryService.findCategoryList(id);
         return Result.build(list, ResultCodeEnum.SUCCESS);
     }
+
 }

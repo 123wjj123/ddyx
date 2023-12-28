@@ -2,6 +2,7 @@ package com.atguigu.spzx.manager.service.impl;
 
 import cn.hutool.core.collection.CollectionUtil;
 import com.alibaba.excel.EasyExcel;
+import com.atguigu.spzx.manager.listener.ExcelListener;
 import com.atguigu.spzx.manager.mapper.CategoryMapper;
 import com.atguigu.spzx.manager.service.CategoryService;
 import com.atguigu.spzx.model.entity.product.Category;
@@ -99,8 +100,8 @@ public class CategoryServiceImpl implements CategoryService {
     // 导入
     @Override
     public void importData(MultipartFile file) {
-        //TODO 监听器
-        //ExceLListener exceLListener = null;
+        //监听器
+        ExcelListener<CategoryExcelVo> excelListener = new ExcelListener(categoryMapper);
         try {
             EasyExcel.read(file.getInputStream(), CategoryExcelVo.class,null)
                     .sheet().doRead();
