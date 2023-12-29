@@ -4,160 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="323bae5a-57c4-4604-a450-0eb5e6414bd5" name="Changes" comment="权限管理角色管理">
-      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/controller/BrandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/controller/CategoryBrandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/BrandService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/CategoryBrandService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/BrandServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/CategoryBrandServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="323bae5a-57c4-4604-a450-0eb5e6414bd5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/controller/OrderInfoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/controller/ProductSpecController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/controller/ProductUnitController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/OrderInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/ProductSpecService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/ProductUnitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/OrderInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/ProductSpecServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/ProductUnitServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/task/OrderStatisticsTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/controller/CategoryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/listener/ExcelListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/listener/ExcelListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/mapper/BrandMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/mapper/BrandMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/controller/CategoryBrandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/controller/CategoryBrandController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/mapper/CategoryBrandMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/mapper/CategoryBrandMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/mapper/CategoryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/mapper/CategoryMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/CategoryServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/resources/mapper/brand/BrandMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/resources/mapper/brand/BrandMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/brand/BrandMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/brand/BrandMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/src/main/resources/application-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/target/classes/application-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/target/service-cart-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/src/main/resources/application-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/src/main/resources/mapper/order/OrderInfoMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/src/main/resources/mapper/order/OrderItemMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/src/main/resources/mapper/order/OrderLogMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/src/main/resources/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/target/classes/application-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/target/classes/mapper/order/OrderInfoMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/target/classes/mapper/order/OrderItemMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/target/classes/mapper/order/OrderLogMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/target/classes/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/target/service-order-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-pay/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-pay/src/main/resources/application-alipay.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-pay/src/main/resources/application-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-pay/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-pay/src/main/resources/mapper/pay/PaymentInfoMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-pay/src/main/resources/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-pay/target/classes/application-alipay.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-pay/target/classes/application-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-pay/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-pay/target/classes/mapper/pay/PaymentInfoMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-pay/target/classes/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-pay/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-pay/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-pay/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-pay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-pay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-pay/target/service-pay-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/src/main/resources/application-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/src/main/resources/mapper/product/BrandMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/src/main/resources/mapper/product/CategoryMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/src/main/resources/mapper/product/ProductDetailsMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/src/main/resources/mapper/product/ProductMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/src/main/resources/mapper/product/ProductSkuMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/src/main/resources/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/application-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/mapper/product/BrandMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/mapper/product/CategoryMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/mapper/product/ProductDetailsMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/mapper/product/ProductMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/mapper/product/ProductSkuMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/service-product-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/src/main/resources/application-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/src/main/resources/mapper/user/UserAddressMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/src/main/resources/mapper/user/UserInfoMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/src/main/resources/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/classes/application-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/classes/mapper/user/UserAddressMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/classes/mapper/user/UserInfoMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/classes/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/src/main/java/com/atguigu/spzx/user/UserApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/src/main/java/com/atguigu/spzx/user/controller/SmsController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/src/main/java/com/atguigu/spzx/user/controller/UserAddressController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/src/main/java/com/atguigu/spzx/user/controller/UserInfoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/src/main/java/com/atguigu/spzx/user/mapper/UserAddressMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/src/main/java/com/atguigu/spzx/user/mapper/UserInfoMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/src/main/java/com/atguigu/spzx/user/service/SmsService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/src/main/java/com/atguigu/spzx/user/service/UserAddressService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/src/main/java/com/atguigu/spzx/user/service/UserInfoService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/src/main/java/com/atguigu/spzx/user/service/impl/SmsServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/src/main/java/com/atguigu/spzx/user/service/impl/UserAddressServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/src/main/java/com/atguigu/spzx/user/service/impl/UserInfoServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/src/main/resources/application-dev.yml.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/src/main/resources/mapper/user/UserAddressMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/src/main/resources/mapper/user/UserInfoMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/src/main/resources/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/classes/application-dev.yml.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/classes/com/atguigu/spzx/user/UserApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/classes/com/atguigu/spzx/user/controller/SmsController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/classes/com/atguigu/spzx/user/controller/UserAddressController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/classes/com/atguigu/spzx/user/controller/UserInfoController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/classes/com/atguigu/spzx/user/mapper/UserAddressMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/classes/com/atguigu/spzx/user/mapper/UserInfoMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/classes/com/atguigu/spzx/user/service/SmsService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/classes/com/atguigu/spzx/user/service/UserAddressService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/classes/com/atguigu/spzx/user/service/UserInfoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/classes/com/atguigu/spzx/user/service/impl/SmsServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/classes/com/atguigu/spzx/user/service/impl/UserAddressServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/classes/com/atguigu/spzx/user/service/impl/UserInfoServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/classes/mapper/user/UserAddressMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/classes/mapper/user/UserInfoMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/classes/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/service-user-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/docker/target/service-user-1.0-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/service-user-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/service-user-1.0-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/mapper/ProductMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/mapper/ProductMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/mapper/ProductSpecMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/mapper/ProductSpecMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/mapper/ProductUnitMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/mapper/ProductUnitMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/CategoryBrandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/CategoryBrandService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/CategoryBrandServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/CategoryBrandServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/resources/mapper/product/ProductMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/resources/mapper/product/ProductMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/resources/mapper/product/ProductSpecMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/resources/mapper/product/ProductSpecMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/resources/mapper/product/ProductUnitMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/resources/mapper/product/ProductUnitMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/target/classes/application-dev.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,28 +74,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/msb/ddyx/spzx-manager/src/main/java/com/atguigu/spzx/manager&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;3a4b43cc107aaa8a96e9fa31d8123184&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/msb/ddyx/spzx-manager/src/main/java/com/atguigu/spzx/manager",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "spring.configuration.checksum": "f40b07809933e17bd2b67417db4a8cac",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -316,7 +188,8 @@
       <workItem from="1703550258934" duration="15104000" />
       <workItem from="1703593880799" duration="3232000" />
       <workItem from="1703723604297" duration="646000" />
-      <workItem from="1703724259803" duration="25824000" />
+      <workItem from="1703724259803" duration="25836000" />
+      <workItem from="1703809403067" duration="27875000" />
     </task>
     <task id="LOCAL-00001" summary="权限管理角色管理">
       <created>1703684547404</created>
@@ -325,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703684547404</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="权限管理角色管理">
+      <created>1703772083508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703772083508</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,11 +222,6 @@
           <properties class="org.mybatis.spring.MyBatisSystemException" package="org.mybatis.spring" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/CategoryBrandServiceImpl.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

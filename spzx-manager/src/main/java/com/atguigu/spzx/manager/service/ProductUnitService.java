@@ -1,12 +1,10 @@
-package com.atguigu.spzx.manager.mapper;
+package com.atguigu.spzx.manager.service;
 
 import com.atguigu.spzx.model.entity.base.ProductUnit;
-import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;
 
-@Mapper
-public interface ProductUnitMapper {
+public interface ProductUnitService {
 
     // 查询所有的计量单位
     List<ProductUnit> findAll();

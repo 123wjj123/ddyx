@@ -9,7 +9,7 @@ import java.util.List;
 @Mapper
 public interface ProductMapper {
 
-    //列表（条件分页查询）
+    // 商品列表（条件分页查询）
     List<Product> findByPage(ProductDto productDto);
 
     //1 保存商品基本信息  product表
