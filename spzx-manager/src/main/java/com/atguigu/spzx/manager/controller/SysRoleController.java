@@ -9,12 +9,19 @@ import model.vo.common.ResultCodeEnum;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.Map;
+
 @RestController
 @RequestMapping(value = "/admin/system/sysRole")
 public class SysRoleController {
 
     @Autowired
     private SysRoleService sysRoleService;
+    @GetMapping("/findAllRoles/{userId}")
+    public Result findAllRoles(@PathVariable("userId")Long userId){
+        Map<String,Object> map=sysRoleService.findAll(userId);
+        return Result.build(map,ResultCodeEnum.SUCCESS);
+    }
     //角色删除方法
     @DeleteMapping("/deleteById/{roleId}")
     public Result deleteById(@PathVariable("roleId")Long roleId){

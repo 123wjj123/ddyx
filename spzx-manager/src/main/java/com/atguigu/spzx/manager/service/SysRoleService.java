@@ -4,6 +4,8 @@ import com.github.pagehelper.PageInfo;
 import model.dto.system.SysRoleDto;
 import model.entity.system.SysRole;
 
+import java.util.Map;
+
 public interface SysRoleService {
     //角色列表的方法
     PageInfo<SysRole> findByPage(SysRoleDto sysRoleDto, Integer current, Integer limit);
@@ -14,4 +16,6 @@ public interface SysRoleService {
     void updateSysRole(SysRole sysRole);
     //角色删除方法
     void deleteById(Long roleId);
+
+    Map<String, Object> findAll(Long userId);
 }
