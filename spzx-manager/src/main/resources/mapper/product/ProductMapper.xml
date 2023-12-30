@@ -71,6 +71,8 @@
         where p.id=#{id}
     </select>
 
+
+    <!--useGeneratedKeys="true" keyProperty="id" 这个的意思是查出数据后把这个id回显到表格中-->
     <insert id="save" useGeneratedKeys="true" keyProperty="id">
         insert into product (
             id,

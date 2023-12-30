@@ -1,13 +1,14 @@
 package common.interceptor;
 
 import com.alibaba.fastjson2.JSON;
-import com.atguigu.spzx.model.entity.user.UserInfo;
-import com.atguigu.spzx.utils.AuthContextUtil;
+
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
+import model.entity.user.UserInfo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.web.servlet.HandlerInterceptor;
+import utils.AuthContextUtil;
 
 public class UserLoginAuthInterceptor implements HandlerInterceptor {
 

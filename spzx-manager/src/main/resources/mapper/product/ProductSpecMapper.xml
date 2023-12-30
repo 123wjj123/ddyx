@@ -9,6 +9,7 @@
         id,spec_name,spec_value,create_time,update_time,is_deleted
     </sql>
 
+    <!-- 查询所有商品规格 -->
     <select id="findAll" resultMap="productSpecMap">
         select <include refid="columns" />
         from product_spec

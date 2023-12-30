@@ -5,12 +5,14 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-manager/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/spzx-server-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/spzx-service-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-service/pom.xml" />
       </set>
     </option>
   </component>

@@ -1,7 +1,8 @@
 package common.anno;
 
-import com.atguigu.spzx.common.config.UserWebMvcConfiguration;
-import com.atguigu.spzx.common.interceptor.UserLoginAuthInterceptor;
+
+import common.config.UserWebMvcConfiguration;
+import common.interceptor.UserLoginAuthInterceptor;
 import org.springframework.context.annotation.Import;
 
 import java.lang.annotation.ElementType;

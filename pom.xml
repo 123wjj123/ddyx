@@ -12,9 +12,7 @@
         <module>spzx-common</module>
         <module>spzx-model</module>
         <module>spzx-manager</module>
-        <module>spzx-server-gateway</module>
         <module>spzx-service</module>
-        <module>spzx-service-client</module>
     </modules>
 
     <!-- 指定父工程 -->

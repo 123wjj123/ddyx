@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="323bae5a-57c4-4604-a450-0eb5e6414bd5" name="Changes" comment="权限管理角色管理">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+    <list default="true" id="323bae5a-57c4-4604-a450-0eb5e6414bd5" name="Changes" comment="aaaaaa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/spzx/manager/ManagerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/spzx/manager/controller/SysRoleController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/spzx/manager/controller/SysUserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/spzx/manager/mapper/SysRoleMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/spzx/manager/mapper/SysUserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/spzx/manager/properties/MinioProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/spzx/manager/properties/UserProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/spzx/manager/service/SysRoleService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/spzx/manager/service/SysUserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/spzx/manager/service/impl/SysRoleServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/spzx/manager/service/impl/SysUserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/target/classes/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/role/SysRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/role/SysRoleMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/user/SysUserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/user/SysUserMapper.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +19,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/hd" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -63,43 +50,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "F:/msb/ddyx/spzx-manager/src/main/java/com/atguigu/spzx/manager",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "spring.configuration.checksum": "3117c6026b6eeeeca4e173bbc31159ea",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/msb/ddyx/spzx-manager/src/main/java/com/atguigu/spzx/manager&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;f40b07809933e17bd2b67417db4a8cac&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.atguigu.spzx.manager.listener" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\msb\ddyx\spzx-manager\src\main\java\com\atguigu\spzx\manager" />
       <recent name="F:\msb\ddyx\spzx-manager" />
-      <recent name="F:\msb\ddyx\spzx-common\common-util\src\main\java" />
-      <recent name="F:\msb\ddyx\spzx-common\common-service\src\main\java" />
-      <recent name="F:\msb\ddyx\spzx-common\common-log\src\main\java" />
+      <recent name="F:\msb\ddyx" />
+      <recent name="F:\msb\ddyx\spzx-model" />
+      <recent name="F:\msb\ddyx\spzx-common" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\msb\ddyx\spzx-manager\src\main\java\com\atguigu\spzx\manager" />
       <recent name="F:\msb\ddyx\spzx-manager\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.spzx.manager.service.impl" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ManagerApplication (1)">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="ddyx" />
       <method v="2">
@@ -109,6 +111,19 @@
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="ddyx" />
       <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spzx-manager" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.spzx.manager.ManagerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.spzx.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,8 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ManagerApplication (1)" />
+      <item itemvalue="Spring Boot.ManagerApplication" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ManagerApplication (1)" />
         <item itemvalue="Spring Boot.ManagerApplication" />
       </list>
     </recent_temporary>
@@ -142,8 +162,34 @@
       <updated>1703484103337</updated>
       <workItem from="1703484104702" duration="10865000" />
       <workItem from="1703550258934" duration="15104000" />
-      <workItem from="1703581950117" duration="1548000" />
+      <workItem from="1703593880799" duration="3232000" />
+      <workItem from="1703723604297" duration="646000" />
+      <workItem from="1703724259803" duration="25836000" />
+      <workItem from="1703809403067" duration="28213000" />
+      <workItem from="1703898153588" duration="4583000" />
     </task>
+    <task id="LOCAL-00001" summary="权限管理角色管理">
+      <created>1703684547404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703684547404</updated>
+    </task>
+    <task id="LOCAL-00002" summary="权限管理角色管理">
+      <created>1703772083508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703772083508</updated>
+    </task>
+    <task id="LOCAL-00003" summary="aaaaaa">
+      <created>1703858015468</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703858015468</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +197,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="权限管理角色管理" />
-    <option name="LAST_COMMIT_MESSAGE" value="权限管理角色管理" />
+    <MESSAGE value="aaaaaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaaaaa" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.mybatis.spring.MyBatisSystemException" package="org.mybatis.spring" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

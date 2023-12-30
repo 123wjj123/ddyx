@@ -1,6 +1,7 @@
 package common.anno;
 
-import com.atguigu.spzx.common.feign.UserTokenOpenFeignInterceptor;
+
+import common.feign.UserTokenOpenFeignInterceptor;
 import org.springframework.context.annotation.Import;
 
 import java.lang.annotation.ElementType;
