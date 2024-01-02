@@ -15,7 +15,4 @@ public class AssginRoleDto {
     @Schema(description = "角色id的List集合")
     private List<Long> roleIdList;
 
-
-
-
 }

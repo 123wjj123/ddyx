@@ -8,12 +8,12 @@ import java.util.List;
 
 public interface CategoryService {
 
-    // 分类列表，每次查询一层数据
+    //分类列表，每次查询一层数据
     List<Category> findCategoryList(Long id);
 
-    // 导出
+    //导出
     void exportData(HttpServletResponse response);
 
-    // 导入
+    //导入
     void importData(MultipartFile file);
 }

@@ -7,7 +7,5 @@ import java.util.List;
 
 @Mapper
 public interface ProductUnitMapper {
-
-    // 查询所有的计量单位
     List<ProductUnit> findAll();
 }

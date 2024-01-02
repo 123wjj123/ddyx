@@ -5,7 +5,5 @@ import com.atguigu.spzx.model.entity.base.ProductUnit;
 import java.util.List;
 
 public interface ProductUnitService {
-
-    // 查询所有的计量单位
     List<ProductUnit> findAll();
 }

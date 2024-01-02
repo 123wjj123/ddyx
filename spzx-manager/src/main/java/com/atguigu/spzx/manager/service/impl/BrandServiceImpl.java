@@ -1,6 +1,5 @@
 package com.atguigu.spzx.manager.service.impl;
 
-
 import com.atguigu.spzx.manager.mapper.BrandMapper;
 import com.atguigu.spzx.manager.service.BrandService;
 import com.atguigu.spzx.model.entity.product.Brand;
@@ -17,7 +16,7 @@ public class BrandServiceImpl implements BrandService {
     @Autowired
     private BrandMapper brandMapper;
 
-    // 品牌列表 （分页）
+    //列表
     @Override
     public PageInfo<Brand> findByPage(Integer page, Integer limit) {
         PageHelper.startPage(page,limit);
@@ -26,14 +25,13 @@ public class BrandServiceImpl implements BrandService {
         return pageInfo;
     }
 
-    // 品牌添加
+    //添加
     @Override
     public void save(Brand brand) {
         brandMapper.save(brand);
     }
 
-
-    // 查询所有的品牌
+    //查询所有品牌
     @Override
     public List<Brand> findAll() {
         return brandMapper.findByPage();

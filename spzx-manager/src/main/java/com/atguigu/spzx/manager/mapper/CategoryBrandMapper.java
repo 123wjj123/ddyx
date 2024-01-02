@@ -16,8 +16,6 @@ public interface CategoryBrandMapper {
     //添加
     void save(CategoryBrand categoryBrand);
 
-
     //根据分类id查询对应品牌数据
     List<Brand> findBrandByCategoryId(Long categoryId);
-
 }

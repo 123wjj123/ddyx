@@ -12,7 +12,9 @@
       <set>
         <option value="$PROJECT_DIR$/spzx-server-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/spzx-service-client/pom.xml" />
-        <option value="$PROJECT_DIR$/spzx-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-service/service-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-service/service-order/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-service/service-pay/pom.xml" />
       </set>
     </option>
   </component>

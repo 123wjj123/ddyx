@@ -7,10 +7,10 @@ import java.util.List;
 
 @Mapper
 public interface BrandMapper {
-    // 品牌列表 （分页）
+    //列表
     List<Brand> findByPage();
 
-    // 品牌添加
+    //添加
     void save(Brand brand);
 
 }

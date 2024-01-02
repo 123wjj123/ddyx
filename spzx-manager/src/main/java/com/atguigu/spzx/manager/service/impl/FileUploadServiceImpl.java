@@ -1,14 +1,15 @@
 package com.atguigu.spzx.manager.service.impl;
 
 import cn.hutool.core.date.DateUtil;
+import com.atguigu.spzx.common.exception.GuiguException;
 import com.atguigu.spzx.manager.properties.MinioProperties;
 import com.atguigu.spzx.manager.service.FileUploadService;
-import common.exception.GuiguException;
+import com.atguigu.spzx.model.vo.common.ResultCodeEnum;
 import io.minio.BucketExistsArgs;
 import io.minio.MakeBucketArgs;
 import io.minio.MinioClient;
 import io.minio.PutObjectArgs;
-import model.vo.common.ResultCodeEnum;
+import io.minio.errors.MinioException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;

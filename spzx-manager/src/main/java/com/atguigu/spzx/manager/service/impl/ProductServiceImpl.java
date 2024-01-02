@@ -1,6 +1,5 @@
 package com.atguigu.spzx.manager.service.impl;
 
-
 import com.atguigu.spzx.manager.mapper.ProductDetailsMapper;
 import com.atguigu.spzx.manager.mapper.ProductMapper;
 import com.atguigu.spzx.manager.mapper.ProductSkuMapper;
@@ -20,7 +19,7 @@ import java.util.List;
 public class ProductServiceImpl implements ProductService {
 
     @Autowired
-    private ProductMapper productMapper;
+    private ProductMapper productMapper ;
 
     @Autowired
     private ProductSkuMapper productSkuMapper;
@@ -28,37 +27,36 @@ public class ProductServiceImpl implements ProductService {
     @Autowired
     private ProductDetailsMapper productDetailsMapper;
 
-
-    // 商品列表（条件分页查询）
+    //列表（条件分页查询）
     @Override
-    public PageInfo<Product> findByPage(Integer page, Integer limit, ProductDto productDto) {
+    public PageInfo<Product> findByPage(Integer page,
+                                        Integer limit,
+                                        ProductDto productDto) {
         PageHelper.startPage(page,limit);
         List<Product> list = productMapper.findByPage(productDto);
         return new PageInfo<>(list);
     }
 
-
-    // 添加商品信息
+    //添加
     @Override
     public void save(Product product) {
         //1 保存商品基本信息  product表
-        // 设置商品 上架状态  审核状态
         product.setStatus(0);
         product.setAuditStatus(0);
         productMapper.save(product);
 
         //2 获取商品sku列表集合，保存sku信息，product_sku表
         List<ProductSku> productSkuList = product.getProductSkuList();
-        for (int i=0;i < productSkuList.size();i++){
+        for(int i=0;i<productSkuList.size();i++) {
             ProductSku productSku = productSkuList.get(i);
 
-            // 商品编号
+            //商品编号
             productSku.setSkuCode(product.getId()+"_"+i);
-            // 商品id
+            //商品ID
             productSku.setProductId(product.getId());
-            // skuName
+            //skuName
             productSku.setSkuName(product.getName()+productSku.getSkuSpec());
-            productSku.setSaleNum(0);  // 设置销量
+            productSku.setSaleNum(0);                               // 设置销量
             productSku.setStatus(0);
             productSkuMapper.save(productSku);
         }
@@ -70,9 +68,7 @@ public class ProductServiceImpl implements ProductService {
         productDetailsMapper.save(productDetails);
     }
 
-
-
-    // 根据商品id查询商品信息
+    //根据商品id查询商品信息
     @Override
     public Product getById(Long id) {
         //1 根据id查询商品基本信息  product
@@ -82,7 +78,7 @@ public class ProductServiceImpl implements ProductService {
         List<ProductSku> productSkuList = productSkuMapper.findProductSkuByProductId(id);
         product.setProductSkuList(productSkuList);
 
-        //3 根据id删除商品详情数据  product_details
+        //3 根据id删除商品详情数据 product_details
         ProductDetails productDetails = productDetailsMapper.findProductDetailsById(id);
         String imageUrls = productDetails.getImageUrls();
         product.setDetailsImageUrls(imageUrls);
@@ -90,48 +86,41 @@ public class ProductServiceImpl implements ProductService {
         return product;
     }
 
-
-
-    // 保存修改数据
+    //保存修改数据
     @Override
     public void update(Product product) {
-        // 修改product
+        //修改product
         productMapper.updateById(product);
 
-        // 修改product_sku表
+        //修改product_sku
         List<ProductSku> productSkuList = product.getProductSkuList();
         productSkuList.forEach(productSku -> {
             productSkuMapper.updateById(productSku);
         });
 
-
-        // 修改product_details
+        //修改product_details
         String detailsImageUrls = product.getDetailsImageUrls();
         ProductDetails productDetails = productDetailsMapper.findProductDetailsById(product.getId());
         productDetails.setImageUrls(detailsImageUrls);
         productDetailsMapper.updateById(productDetails);
     }
 
-
-    // 删除商品
+    //删除
     @Override
     public void deleteById(Long id) {
         //1 根据商品id删除product表
         productMapper.deleteById(id);
-
         //2 根据商品id删除product_sku表
         productSkuMapper.deleteByProductId(id);
-
         //3 根据商品id删除product_details表
         productDetailsMapper.deleteByProductId(id);
     }
 
-
-    // 商品审核功能
+    //审核
     @Override
     public void updateAuditStatus(Long id, Integer auditStatus) {
         Product product = new Product();
-        product.setId(id); // 设置商品id
+        product.setId(id); //设置商品id
         if(auditStatus == 1) {
             product.setAuditStatus(1);
             product.setAuditMessage("审批通过");
@@ -142,8 +131,7 @@ public class ProductServiceImpl implements ProductService {
         productMapper.updateById(product);
     }
 
-
-    // 商品上下架接口
+    //上下架
     @Override
     public void updateStatus(Long id, Integer status) {
         Product product = new Product();

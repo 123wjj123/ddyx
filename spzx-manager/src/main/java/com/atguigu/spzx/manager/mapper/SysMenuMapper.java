@@ -28,6 +28,4 @@ public interface SysMenuMapper {
 
     //获取当前添加菜单的父菜单
     SysMenu selectParentMenu(Long parentId);
-
-    void updateSysRoleMenuIsHalf(Long id);
 }
