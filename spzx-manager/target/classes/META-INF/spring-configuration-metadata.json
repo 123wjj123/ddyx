@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "spzx.auth",
+      "type": "com.atguigu.spzx.manager.properties.UserAuthProperties",
+      "sourceType": "com.atguigu.spzx.manager.properties.UserAuthProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spzx.auth.no-auth-urls",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.atguigu.spzx.manager.properties.UserAuthProperties"
+    }
+  ],
+  "hints": []
+}
