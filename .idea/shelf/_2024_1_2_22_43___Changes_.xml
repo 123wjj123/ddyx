@@ -1,0 +1,14 @@
+<changelist name="在进行合并之前于_2024_1_2_22_43_取消提交了更改_[Changes]" date="1704206632938" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/在进行合并之前于_2024_1_2_22_43_取消提交了更改_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="在进行合并之前于 2024/1/2 22:43 取消提交了更改 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/FileUploadServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/FileUploadServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行合并之前于_2024_1_2_22_43_取消提交了更改_[Changes]/FileUploadServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/SysUserServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/SysUserServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行合并之前于_2024_1_2_22_43_取消提交了更改_[Changes]/SysUserServiceImpl.class" />
+  </binary>
+</changelist>
