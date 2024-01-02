@@ -10,6 +10,7 @@
         id,name,logo,create_time,update_time,is_deleted
     </sql>
 
+    <!-- 查询所有品牌也是用下面的语句-->
     <!--//列表-->
     <select id="findByPage" resultMap="brandMap">
         select <include refid="columns"/>
