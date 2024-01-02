@@ -1,0 +1,439 @@
+<changelist name="在变基之前未提交的更改_[Changes]2" date="1704200446133" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/shelved.patch" />
+  <option name="DESCRIPTION" value="在变基之前未提交的更改 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/service/impl/CategoryServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/service/impl/CategoryServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/CategoryServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/config/WebMvcConfiguration.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/config/WebMvcConfiguration.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/WebMvcConfiguration.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/ProductUnitService.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/ProductUnitService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductUnitService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/service/ProductService.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/service/ProductService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/service/UserInfoService.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/service/UserInfoService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/UserInfoService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/ProductUnitServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/ProductUnitServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductUnitServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/OrderInfoServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/OrderInfoServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/OrderInfoServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/mapper/CategoryMapper.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/mapper/CategoryMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/CategoryMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/ProductService.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/ProductService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductService1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/controller/ProductController.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/controller/ProductController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/ProductController.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/ProductController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductController1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-log/target/classes/com/atguigu/spzx/common/log/annotation/EnableLogAspect.class" />
+    <option name="AFTER_PATH" value="spzx-common/common-log/target/classes/com/atguigu/spzx/common/log/annotation/EnableLogAspect.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/EnableLogAspect.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/CategoryBrandController.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/CategoryBrandController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/CategoryBrandController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/service/UserAddressService.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/service/UserAddressService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/UserAddressService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/controller/IndexController.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/controller/IndexController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/IndexController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/SysRoleService.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/SysRoleService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/SysRoleService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/utils/MenuHelper.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/utils/MenuHelper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/MenuHelper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/ValidateCodeServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/ValidateCodeServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ValidateCodeServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/listener/ExcelListener.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/listener/ExcelListener.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ExcelListener.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/mapper/ProductSkuMapper.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/mapper/ProductSkuMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductSkuMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/SysRoleServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/SysRoleServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/SysRoleServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/CategoryBrandService.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/CategoryBrandService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/CategoryBrandService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/mapper/SysUserMapper.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/mapper/SysUserMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/SysUserMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-log/target/classes/com/atguigu/spzx/common/log/enums/OperatorType.class" />
+    <option name="AFTER_PATH" value="spzx-common/common-log/target/classes/com/atguigu/spzx/common/log/enums/OperatorType.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/OperatorType.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/mapper/CategoryBrandMapper.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/mapper/CategoryBrandMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/CategoryBrandMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/BrandController.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/BrandController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/BrandController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/mapper/UserAddressMapper.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/mapper/UserAddressMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/UserAddressMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/SysMenuController.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/SysMenuController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/SysMenuController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/SysRoleMenuService.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/SysRoleMenuService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/SysRoleMenuService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/ProductSpecService.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/ProductSpecService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductSpecService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/ProductUnitController.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/ProductUnitController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductUnitController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/SysRoleMenuController.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/SysRoleMenuController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/SysRoleMenuController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/SysRoleController.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/SysRoleController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/SysRoleController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/service/impl/ProductServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/service/impl/ProductServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/mapper/SysRoleMapper.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/mapper/SysRoleMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/SysRoleMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/controller/UserAddressController.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/controller/UserAddressController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/UserAddressController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/controller/UserInfoController.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/controller/UserInfoController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/UserInfoController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-log/target/classes/com/atguigu/spzx/common/log/service/AsyncOperLogService.class" />
+    <option name="AFTER_PATH" value="spzx-common/common-log/target/classes/com/atguigu/spzx/common/log/service/AsyncOperLogService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/AsyncOperLogService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/ProductApplication.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/ProductApplication.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductApplication.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/ProductServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/ProductServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductServiceImpl1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/SysMenuService.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/SysMenuService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/SysMenuService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/OrderInfoController.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/OrderInfoController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/OrderInfoController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/mapper/BrandMapper.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/mapper/BrandMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/BrandMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-log/target/classes/com/atguigu/spzx/common/log/aspect/LogAspect.class" />
+    <option name="AFTER_PATH" value="spzx-common/common-log/target/classes/com/atguigu/spzx/common/log/aspect/LogAspect.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/LogAspect.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/OrderInfoService.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/OrderInfoService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/OrderInfoService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/mapper/ProductDetailsMapper.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/mapper/ProductDetailsMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductDetailsMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/mapper/ProductMapper.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/mapper/ProductMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/service/impl/UserAddressServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/service/impl/UserAddressServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/UserAddressServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/SysMenuServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/SysMenuServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/SysMenuServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/ProductSpecController.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/ProductSpecController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductSpecController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/UserApplication.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/UserApplication.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/UserApplication.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/service/impl/UserInfoServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/service/impl/UserInfoServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/UserInfoServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/task/OrderStatisticsTask.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/task/OrderStatisticsTask.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/OrderStatisticsTask.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/controller/BrandController.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/controller/BrandController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/BrandController1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/BrandService.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/BrandService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/BrandService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/mapper/ProductSpecMapper.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/mapper/ProductSpecMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductSpecMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/service/BrandService.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/service/BrandService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/BrandService1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/properties/MinioProperties.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/properties/MinioProperties.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/MinioProperties.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/service/impl/BrandServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/service/impl/BrandServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/BrandServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/mapper/SysMenuMapper.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/mapper/SysMenuMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/SysMenuMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/system/AssginRoleDto.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/system/AssginRoleDto.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/AssginRoleDto.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/FileUploadServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/FileUploadServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/FileUploadServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/mapper/ProductMapper.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/mapper/ProductMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductMapper1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/ProductSpecServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/ProductSpecServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductSpecServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/CategoryService.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/CategoryService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/CategoryService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/SysRoleMenuServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/SysRoleMenuServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/SysRoleMenuServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/interceptor/LoginAuthInterceptor.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/interceptor/LoginAuthInterceptor.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/LoginAuthInterceptor.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/ValidateCodeService.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/ValidateCodeService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ValidateCodeService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/CategoryBrandServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/CategoryBrandServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/CategoryBrandServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/controller/SmsController.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/controller/SmsController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/SmsController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/service/impl/SmsServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/service/impl/SmsServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/SmsServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/FileUploadService.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/FileUploadService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/FileUploadService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/CategoryController.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/CategoryController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/CategoryController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-log/target/classes/com/atguigu/spzx/common/log/utils/LogUtil.class" />
+    <option name="AFTER_PATH" value="spzx-common/common-log/target/classes/com/atguigu/spzx/common/log/utils/LogUtil.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/LogUtil.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/mapper/BrandMapper.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/mapper/BrandMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/BrandMapper1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/mapper/UserInfoMapper.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/mapper/UserInfoMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/UserInfoMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/controller/CategoryController.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/controller/CategoryController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/CategoryController1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/ManagerApplication.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/ManagerApplication.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ManagerApplication.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/service/CategoryService.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/service/CategoryService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/CategoryService1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/service/SmsService.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-user/target/classes/com/atguigu/spzx/user/service/SmsService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/SmsService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/mapper/ProductUnitMapper.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/mapper/ProductUnitMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/ProductUnitMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/IndexController.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/IndexController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/IndexController1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/CategoryServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/CategoryServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/CategoryServiceImpl1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/BrandServiceImpl.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/BrandServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/BrandServiceImpl1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/config/RedisConfig.class" />
+    <option name="AFTER_PATH" value="spzx-service/service-product/target/classes/com/atguigu/spzx/product/config/RedisConfig.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/RedisConfig.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/FileUploadController.class" />
+    <option name="AFTER_PATH" value="spzx-manager/target/classes/com/atguigu/spzx/manager/controller/FileUploadController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/FileUploadController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-log/target/classes/com/atguigu/spzx/common/log/annotation/Log.class" />
+    <option name="AFTER_PATH" value="spzx-common/common-log/target/classes/com/atguigu/spzx/common/log/annotation/Log.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Changes]2/Log.class" />
+  </binary>
+</changelist>

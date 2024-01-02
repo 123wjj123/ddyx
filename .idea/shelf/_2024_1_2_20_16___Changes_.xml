@@ -1,0 +1,354 @@
+<changelist name="在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]" date="1704197803130" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="在进行签出之前于 2024/1/2 20:16 取消提交了更改 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/product/ProductSku.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/product/ProductSku.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/ProductSku.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/order/OrderStatisticsVo.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/order/OrderStatisticsVo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/OrderStatisticsVo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/h5/CartInfo.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/h5/CartInfo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/CartInfo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/order/OrderInfo.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/order/OrderInfo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/OrderInfo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/order/OrderStatistics.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/order/OrderStatistics.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/OrderStatistics.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/h5/ProductItemVo.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/h5/ProductItemVo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/ProductItemVo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/system/ValidateCodeVo.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/system/ValidateCodeVo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/ValidateCodeVo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-service/target/classes/common/interceptor/UserLoginAuthInterceptor.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/system/SysUserDto.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/system/SysUserDto.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/SysUserDto.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/user/UserAddress.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/user/UserAddress.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/UserAddress.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-service/target/classes/com/atguigu/spzx/common/interceptor/UserLoginAuthInterceptor.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/base/Region.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/base/Region.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/Region.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-service/target/classes/com/atguigu/spzx/common/config/UserWebMvcConfiguration.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/system/SysOperLogDto.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/system/SysOperLogDto.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/SysOperLogDto.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/product/SkuSaleDto.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/product/SkuSaleDto.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/SkuSaleDto.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/system/SysMenu.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/system/SysMenu.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/SysMenu.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-util/target/classes/com/atguigu/spzx/utils/HttpUtils$1.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/h5/UserInfoVo.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/h5/UserInfoVo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/UserInfoVo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-service/target/classes/common/exception/GuiguException.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/h5/IndexVo.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/h5/IndexVo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/IndexVo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-service/target/classes/common/exception/GlobalExceptionHandler.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/system/SysRoleUser.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/system/SysRoleUser.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/SysRoleUser.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/product/ProductSpec.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/product/ProductSpec.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/ProductSpec.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-service/target/classes/com/atguigu/spzx/common/exception/GlobalExceptionHandler.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/system/LoginDto.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/system/LoginDto.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/LoginDto.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/system/SysRole.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/system/SysRole.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/SysRole.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-util/target/classes/utils/AuthContextUtil.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/order/OrderItem.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/order/OrderItem.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/OrderItem.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/product/ProductDto.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/product/ProductDto.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/ProductDto.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/product/CategoryBrandDto.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/product/CategoryBrandDto.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/CategoryBrandDto.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-util/target/classes/com/atguigu/spzx/utils/AuthContextUtil.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-util/target/classes/com/atguigu/spzx/utils/HttpUtils.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/system/SysMenuVo.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/system/SysMenuVo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/SysMenuVo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/product/ProductDetails.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/product/ProductDetails.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/ProductDetails.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-service/target/classes/com/atguigu/spzx/common/exception/GuiguException.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/product/Product.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/product/Product.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/Product.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-util/target/classes/utils/HttpUtils.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/user/UserInfo.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/user/UserInfo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/UserInfo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-service/target/classes/common/feign/UserTokenOpenFeignInterceptor.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-service/target/classes/com/atguigu/spzx/common/anno/EnableUserLoginAuthInterceptor.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-service/target/classes/common/config/Knife4jConfig.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/pay/PaymentInfo.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/pay/PaymentInfo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/PaymentInfo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/order/OrderStatisticsDto.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/order/OrderStatisticsDto.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/OrderStatisticsDto.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/product/CategoryBrand.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/product/CategoryBrand.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/CategoryBrand.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/h5/TradeVo.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/h5/TradeVo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/TradeVo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-service/target/classes/com/atguigu/spzx/common/feign/UserTokenOpenFeignInterceptor.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/common/Result.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/common/Result.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/Result.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/system/SysUser.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/system/SysUser.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/SysUser.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/product/Brand.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/product/Brand.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/Brand.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-util/target/classes/utils/HttpUtils$1.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/system/AssginMenuDto.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/system/AssginMenuDto.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/AssginMenuDto.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/system/AssginRoleDto.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/system/AssginRoleDto.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/AssginRoleDto.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-service/target/classes/common/anno/EnableUserTokenFeignInterceptor.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-service/target/classes/common/config/UserWebMvcConfiguration.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/system/LoginVo.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/system/LoginVo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/LoginVo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-service/target/classes/com/atguigu/spzx/common/config/Knife4jConfig.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/base/ProductUnit.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/base/ProductUnit.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/ProductUnit.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/product/Category.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/product/Category.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/Category.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/common/ResultCodeEnum.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/common/ResultCodeEnum.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/ResultCodeEnum.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/h5/OrderInfoDto.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/h5/OrderInfoDto.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/OrderInfoDto.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-service/target/classes/common/anno/EnableUserLoginAuthInterceptor.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/h5/ProductSkuDto.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/h5/ProductSkuDto.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/ProductSkuDto.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/system/SysOperLog.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/system/SysOperLog.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/SysOperLog.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/system/SysRoleDto.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/system/SysRoleDto.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/SysRoleDto.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/base/BaseEntity.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/base/BaseEntity.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/BaseEntity.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/product/CategoryExcelVo.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/vo/product/CategoryExcelVo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/CategoryExcelVo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/order/OrderLog.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/entity/order/OrderLog.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/OrderLog.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-common/common-service/target/classes/com/atguigu/spzx/common/anno/EnableUserTokenFeignInterceptor.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/h5/UserRegisterDto.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/h5/UserRegisterDto.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/UserRegisterDto.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/h5/UserLoginDto.class" />
+    <option name="AFTER_PATH" value="spzx-model/target/classes/com/atguigu/spzx/model/dto/h5/UserLoginDto.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_1_2_20_16_取消提交了更改_[Changes]/UserLoginDto.class" />
+  </binary>
+</changelist>
