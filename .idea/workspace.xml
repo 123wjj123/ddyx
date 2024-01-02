@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07a55266-ffc4-4edb-bad2-75b4bf0c9c2e" name="Changes" comment="登录注册">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023_12_27_8_30__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023_12_27_8_30__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023_12_27_8_30__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023_12_27_8_30__Changes_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024_1_2_9_25__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024_1_2_9_25__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/FileUploadServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/FileUploadServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/target/classes/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/FileUploadServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/FileUploadServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2024_1_2_20_16___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2024_1_2_20_16___Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2024_1_2_21_03___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2024_1_2_21_03___Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/__Changes_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/__Changes_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/__Changes_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/__Changes_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/__Changes_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/SysUserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/SysUserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/SysUserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/target/classes/com/atguigu/spzx/manager/service/impl/SysUserServiceImpl.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,16 +169,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/spzx-manager/src/main/java/com/atguigu/spzx/manager/service/impl/SysUserServiceImpl.java</url>
-          <line>149</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
