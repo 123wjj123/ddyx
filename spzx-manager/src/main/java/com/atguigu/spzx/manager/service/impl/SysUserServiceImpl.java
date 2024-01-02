@@ -163,10 +163,6 @@ public class SysUserServiceImpl implements SysUserService {
     public void doAssign(AssginRoleDto assginRoleDto) {
         //1 根据userId删除用户之前分配角色数据
         sysRoleUserMapper.deleteByUserId(assginRoleDto.getUserId());
-
-        //TODO 为了测试，模拟异常
-        int a = 1/0;
-
         //2 重新分配新数据
         List<Long> roleIdList = assginRoleDto.getRoleIdList();
         //遍历得到每个角色id
